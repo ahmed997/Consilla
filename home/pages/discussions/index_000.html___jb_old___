@@ -1,0 +1,269 @@
+<!-- Version 1.3  Start 1-10-2017-->
+
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+	<!-- Required meta tags -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<title>Consilla</title>
+	<link rel="stylesheet" href="../../css/bootstrap-reboot.min.css">
+	<link rel="stylesheet" href="../../css/bootstrap-grid.min.css">
+	<link rel="stylesheet" href="../../css/bootstrap.min.css">
+	<link rel="stylesheet" href="../../css/font-awesome.min.css">
+	<link rel="stylesheet" href="../../css/style.css">
+</head>
+<body>
+
+	<!-- Start Nav-bar -->
+
+	<div class="sticky-top">
+		<nav class="nav d-none d-sm-none d-md-none d-lg-block d-xl-block py-2">
+			<div class="container">
+				<div class="row">
+					<div class="col-1 my-auto px-0">
+						<div class="logo">
+							<a href="index.html">
+							<span>
+								<span>C</span>onsilla
+							</span>
+							</a>
+						</div>
+					</div>
+					<div class="col-5 col-45 my-auto pr-5">
+						<div class="btns text-right">
+							<a href="#">
+								<button class="btn">Messages<sup>+9</sup></button>
+							</a>
+							<a href="#">
+								<button class="btn">Discussion<sup>+9</sup></button>
+							</a>
+							<a href="#">
+								<button class="btn">Notification<sup>+9</sup></button>
+							</a>
+						</div>
+					</div>
+					<div class="col-4 col-30 my-auto px-0 pl-5">
+						<div class="search">
+							<div class="input-group">
+								<input type="search" class="form-control" placeholder="Search for..." aria-label="Search ...">
+								<span class="input-group-btn">
+								<a href="#">
+									<button class="btn btn-secondary py-0" type="button">
+										<i class="fa fa-search"></i>
+									</button>
+								</a>
+							</span>
+							</div>
+						</div>
+					</div>
+					<div class="col-2 col-15 my-auto px-0 text-right">
+						<div class="per">
+							<div class="user-short d-inline-block">
+								<a href="#">
+									<img class="img-fluid" src="../../img/profile.jpeg">
+									<span>Ahmed</span>
+								</a>
+							</div>
+							<div class="dropdown d-inline-block">
+								<button class="btn pl-0 py-0" type="button" id="dropdownMenuButtonO" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+									<i class="fa fa-chevron-down fa-lg"></i>
+								</button>
+								<div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenuButton">
+									<a class="dropdown-item" href="#">Action</a>
+									<a class="dropdown-item" href="#">Another action</a>
+									<a class="dropdown-item" href="#">Something else</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</nav>
+		<nav class="nav d-none d-sm-block d-md-block d-lg-none d-xl-none py-2">
+			<div class="container">
+				<div class="row">
+					<div class="col-1 my-auto px-0">
+						<div class="logo">
+							<a href="index.html">
+								<span>C</span>
+							</a>
+						</div>
+					</div>
+					<div class="col-5 col-45 my-auto">
+						<div class="btns">
+							<a href="#">
+								<button class="btn"><i class="fa fa-envelope-o"></i><sup>+9</sup></button>
+							</a>
+							<a href="#">
+								<button class="btn"><i class="fa fa-commenting-o"></i><sup>+9</sup></button>
+							</a>
+							<a href="#">
+								<button class="btn"><i class="fa fa-bell-o"></i><sup>+9</sup></button>
+							</a>
+						</div>
+					</div>
+					<div class="col-4 col-30 my-auto">
+						<div class="search">
+							<div class="input-group">
+								<input type="search" class="form-control" placeholder="Search for..." aria-label="Search ...">
+								<span class="input-group-btn">
+								<a href="#">
+									<button class="btn py-0" type="button">
+										<i class="fa fa-search"></i>
+									</button>
+								</a>
+							</span>
+							</div>
+						</div>
+					</div>
+					<div class="col-2 col-15 my-auto px-0 text-right">
+						<div class="per">
+							<div class="user-short d-inline-block">
+								<a href="#">
+									<img class="img-fluid" src="../../img/profile.jpeg">
+								</a>
+							</div>
+							<div class="dropdown d-inline-block">
+								<button class="btn pl-0 py-0" type="button" id="dropdownMenuButtonT" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+									<i class="fa fa-chevron-down"></i>
+								</button>
+								<div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenuButton">
+									<a class="dropdown-item" href="#">Action</a>
+									<a class="dropdown-item" href="#">Another action</a>
+									<a class="dropdown-item" href="#">Something else</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</nav>
+		<nav class="nav d-block d-sm-none d-md-none d-lg-none d-xl-none py-2">
+			<div class="container">
+				<div class="row upper">
+					<div class="col-1 my-auto px-0">
+						<div class="logo">
+							<a href="index.html">
+							<span>
+								<span>C</span>onsilla
+							</span>
+							</a>
+						</div>
+					</div>
+					<div class="col-5 col-45 my-auto">
+						<div class="btns">
+							<a href="#">
+								<button class="btn"><i class="fa fa-envelope-o"></i><sup>+9</sup></button>
+							</a>
+							<a href="#">
+								<button class="btn"><i class="fa fa-commenting-o"></i><sup>+9</sup></button>
+							</a>
+							<a href="#">
+								<button class="btn"><i class="fa fa-bell-o"></i><sup>+9</sup></button>
+							</a>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-4 col-30 my-auto">
+						<div class="search">
+							<div class="input-group">
+								<input type="search" class="form-control" placeholder="Search for..." aria-label="Search ...">
+								<span class="input-group-btn">
+								<a href="#">
+									<button class="btn py-0" type="button">
+										<i class="fa fa-search"></i>
+									</button>
+								</a>
+							</span>
+							</div>
+						</div>
+					</div>
+					<div class="col-2 col-15 my-auto px-0 text-right">
+						<div class="per">
+							<div class="user-short d-inline-block">
+								<a href="#">
+									<img class="img-fluid" src="../../img/profile.jpeg">
+								</a>
+							</div>
+							<div class="dropdown d-inline-block">
+								<button class="btn pl-0 py-0" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+									<i class="fa fa-chevron-down"></i>
+								</button>
+								<div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenuButton">
+									<a class="dropdown-item" href="#">Action</a>
+									<a class="dropdown-item" href="#">Another action</a>
+									<a class="dropdown-item" href="#">Something else</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</nav>
+	</div>
+	<!-- End Nav-bar -->
+
+	<!-- Start Website Body -->
+
+	<div class="container">
+		<section class="web-body">
+			<div class="row">
+				<div class="col-md-2 flex-20 d-md-block d-none pl-0">
+					<div class="sticky topic py-4">
+						<!-- Topic Column -->
+						<div class="quick-access pt-2 px-3">
+							<!-- Hot Topic -->
+							<div>
+								<div>
+									<a href="#">Topic Name</a>
+									<a href="#" class="follow ml-5">follow</a>
+								</div>
+							</div>
+							<div class="trend-topic mt-4">
+								<div class="mb-2"><a href="#">Postcards</a></div>
+								<div class="mb-2"><a href="#">Followers</a></div>
+								<div class="mb-2"><a href="#">Photos</a></div>
+								<div class="mb-2"><a href="#">Audios</a></div>
+								<div><a href="#">Videos</a></div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-7 flex-50  m-auto px-0">
+					<div>
+						
+					</div>
+				</div>
+				<div class="col-md-3 flex-30 d-md-block d-none pr-0">
+					<div class="sticky">
+						<!-- Right Column Messages & Footer -->
+						<div class="right-box py-4">
+							<div class="your-topic px-3">
+								<!-- Hot Topic -->
+								<h6>About Topic</h6>
+							</div>
+						</div>
+						<div class="footer">
+							All Copyright
+							Reserved <span>&copy;</span>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+	</div>
+
+	<!-- End Website Body -->
+
+	<!-- Start Script -->
+	<script src="../../js/jquery-3.2.1.js"></script>
+	<script src="../../js/jquery-ui.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
+	<script src="../../js/bootstrap.js"></script>
+	<script src="../../js/jquery.sticky.js"></script>
+	<script src="../../js/plugins.js"></script>
+	<!-- End Script -->
+</body>
+</html>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
